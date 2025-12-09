@@ -1,4 +1,4 @@
-# Demonstration-Video-of-Smart-Forestry-Backend-Cloud-Services-and-Frontend-UI-Design
-智慧林业后端云服务与前端UI设计的演示视频
+# The 'Language Hub' of Smart Forestry Sensors: 485 Communication Interface
+智慧林业传感器的“语言中枢”:485通讯接口的演示视频
 
 演示视频在master分支里
